@@ -1,0 +1,27 @@
+#FRONT-END
+*HTML5
+*CSS3
+*JAVASCRIPT
+
+---
+
+#BACK-END
+*JAVA
+*SPRING BOOT
+
+---
+
+#BANCO DE DADOS
+*MYSQL
+
+---
+
+#Versionamento 
+*GITHUB
+
+---
+
+#MODELAGEM
+*UML
+*GOOGLE PLANILHAS
+
