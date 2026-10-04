@@ -1,38 +1,114 @@
-# Sistema-de-Gerenciamento-de-Academia GYMFLOW
-Sistema de gerenciamento de academia tem como objetivo facilitar a organização das principais atividades de uma academia. O sistema permitirá o gerenciamento de alunos, professores,planos, pagamentos, exercícios e treinos.
-O projeto será desenvolvido como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas (ADS), utilizando conceitos de desenvolvimento de software, banco de dados, UML e programação.
+Sistema de Gerenciamento de Academia
+Descrição
 
----
+O Sistema de Gerenciamento de Academia é um projeto desenvolvido para facilitar a organização das principais atividades de uma academia.
 
-#Objetivo
-Criar um sistema que centralize as informações da academia e facilite o gerenciamento dos alunos, professores, planos, pagamentos, planos, pagamentos e treinos.
+O sistema tem como objetivo centralizar informações de alunos, professores, planos, pagamentos, exercícios e treinos em um único ambiente.
 
----
+O projeto está sendo desenvolvido como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas (ADS).
 
-#Funcionalidades 
--cadastros de alunos 
--cadastro de professores
--cadastro de planos
--cadastro de exercícios 
--controle de pagamentos
--gerenciamento de treinos
--dashboard
--relatorios
+Objetivo
 
----
+Criar um sistema simples e organizado que auxilie no gerenciamento de uma academia, facilitando o controle das informações e das principais atividades realizadas no dia a dia.
 
-#Tecnologias
--HTML
--CSS
--JAVASCRIPT
--JAVA
--SPRING BOOT
--MYSQL
--GITHUB
+Principais funcionalidades
+Cadastro e consulta de alunos
+Cadastro e consulta de professores
+Gerenciamento de planos
+Controle de pagamentos
+Gerenciamento de treinos
+Cadastro de exercícios
+Dashboard com informações gerais
+Relatórios
+Tecnologias
+Front-end
+HTML5
+CSS3
+JavaScript
+Back-end
+Java
+Spring Boot
+Banco de dados
+MySQL
+Ferramentas
+Git
+GitHub
+Figma
+Google Planilhas
+Modelagem
+UML
+Metodologia
 
----
+O projeto utiliza a Metodologia Ágil, permitindo que o sistema seja desenvolvido por etapas, com testes e melhorias durante o processo.
 
-#Status do projeto em andamento
+MVP
 
----
+O MVP possui as principais funcionalidades necessárias para o gerenciamento básico da academia:
+
+Gerenciamento de alunos
+Gerenciamento de professores
+Gerenciamento de planos
+Controle de pagamentos
+Gerenciamento de treinos
+Dashboard
+Telas do sistema
+
+O sistema possui telas para:
+
+Login
+Dashboard
+Alunos
+Cadastro de aluno
+Professores
+Planos
+Pagamentos
+Treinos
+Exercícios
+Relatórios
+Documentação
+
+A documentação do projeto está organizada na pasta docs.
+
+Nela estão disponíveis:
+
+Requisitos do sistema
+Descrição do projeto
+Metodologia Ágil
+Stack de tecnologia
+MVP
+Atores do sistema
+Diagramas UML
+Informações das telas
+Organização dos dados
+Protótipo
+
+O protótipo das telas foi desenvolvido utilizando o Figma.
+
+O link para o protótipo está disponível em:
+
+docs/telas/README.md
+
+Dados
+
+Os dados utilizados no projeto estão organizados em uma planilha do Google Planilhas.
+
+O link está disponível em:
+
+docs/planilhas/README.md
+
+Sistema online
+
+O protótipo do sistema está disponível pelo GitHub Pages.
+
+Acessar o sistema:
+
+https://pedrohds10.github.io/Sistema-de-Gerenciamento-de-Academia/
+
+Status do projeto
+
+🚧 Em desenvolvimento.
+
+Projeto acadêmico desenvolvido no curso de Análise e Desenvolvimento de Sistemas.
+
+
 
