@@ -1,37 +1,38 @@
-Atores do Sistema
+# Atores do Sistema
 
-Os atores representam os usuários que irão interagir com o Sistema de Gerenciamento de Academia.
+Os atores representam os diferentes perfis de usuários que interagem com o **Sistema de Gerenciamento de Academia**, bem como suas respectivas permissões e responsabilidades.
 
-Administrador
+---
 
-O administrador será responsável pelo gerenciamento geral do sistema.
+## 1. Administrador
 
-Principais funções:
+O **Administrador** é responsável pelo gerenciamento geral e operacional da academia.
 
-Cadastrar alunos
-Consultar alunos
-Editar alunos
-Excluir alunos
-Cadastrar professores
-Consultar professores
-Cadastrar e editar planos
-Registrar pagamentos
-Consultar pagamentos
-Ver pagamentos pendentes
-Consultar informações no dashboard
-Professor
+### Principais Funções:
+- Cadastrar, consultar, editar e excluir alunos
+- Cadastrar e consultar professores
+- Cadastrar e editar planos
+- Registrar e consultar pagamentos
+- Visualizar relatórios de pagamentos pendentes
+- Acompanhar métricas e indicadores no Dashboard
 
-O professor será responsável pelo gerenciamento dos treinos dos alunos.
+---
 
-Principais funções:
+## 2. Professor
 
-Consultar alunos
-Consultar exercícios
-Criar treinos
-Editar treinos
-Consultar treinos
-Associar treinos aos alunos
-Resumo
-Ator	Responsabilidade principal
-Administrador	Gerenciamento geral da academia
-Professor	Gerenciamento dos treinos dos alunos
+O **Professor** é responsável pela prescrição e acompanhamento das atividades físicas dos alunos.
+
+### Principais Funções:
+- Consultar alunos
+- Consultar cadastro de exercícios
+- Criar, consultar e editar treinos
+- Associar treinos aos alunos
+
+---
+
+## Resumo das Responsabilidades
+
+| Ator | Responsabilidade Principal |
+| :--- | :--- |
+| **Administrador** | Gerenciamento geral e financeiro da academia |
+| **Professor** | Gerenciamento dos treinos e acompanhamento dos alunos |
