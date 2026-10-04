@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Academia
+# Sistema de Gerenciamento de Academia - GYMFLOW
 
 ## Descrição
 O Sistema de Gerenciamento de Academia é um projeto desenvolvido para facilitar a organização das principais atividades de uma academia.
