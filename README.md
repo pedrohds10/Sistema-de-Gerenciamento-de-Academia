@@ -1,4 +1,4 @@
-# Sistema-de-Gerenciamento-de-Academia
+# Sistema-de-Gerenciamento-de-Academia GYMFLOW
 Sistema de gerenciamento de academia tem como objetivo facilitar a organização das principais atividades de uma academia. O sistema permitirá o gerenciamento de alunos, professores,planos, pagamentos, exercícios e treinos.
 O projeto será desenvolvido como atividade acadêmica do curso de Análise e Desenvolvimento de Sistemas (ADS), utilizando conceitos de desenvolvimento de software, banco de dados, UML e programação.
 
